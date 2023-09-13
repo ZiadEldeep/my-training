@@ -1,0 +1,3 @@
+document .getElementById("id").innerHtml=array.toString()
+--------------------------------
+this built in function can separate between the attributes by comma

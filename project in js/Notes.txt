@@ -1,0 +1,11 @@
+console.table(["firstName","lastName","another thing in array])
+it can show as a table by index and value
+----------------------------
+console.log("ahmed %cali","color:red")
+%c is called c directive which specialize that u mean by styiling so the word ali will be red colored
+---------------------------------------------------
+the function which is called sort()
+can arrande them alphapitically 
+and the function reverse() 
+can start them un alphapitically
+---------------------------------------------------- 

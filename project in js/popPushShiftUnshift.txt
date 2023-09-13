@@ -1,0 +1,5 @@
+we use 
+'pop ( )' to delete an element from the end of the array.
+'push' ( ) to add  an element at the end of the array.
+'shift ( )' to delete an element from the start of the array.
+'unshift' ( ) to add  an element to the start of the array.

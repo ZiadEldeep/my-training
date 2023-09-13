@@ -1,0 +1,8 @@
+var fruits =["orange" , "apple" , "watermelon" , "banana"];
+fruits.splice(2 , 0 , "lemon" "coconut");
+document.getElementById("id").innerHtml=fruits.join(" * ");
+----------------------------
+it will be shown as that 
+orange * apple * lemon * coconut * watermelon * banana 
+------------------------------------------------------------------
+splice( the index that u want to put the value in it , numer of array that u want to delete it from the end of array , the add value)
